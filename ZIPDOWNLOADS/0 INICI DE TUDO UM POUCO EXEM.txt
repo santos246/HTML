@@ -1,10 +1,29 @@
 
 
+</button>
+
+<!--------------------------------------------------------->
+<center>
+<HR SIZE="7">
+<HR WIDTH="80%">
+<HR NOSHADE SIZE="8" color="#00ccff">
+<HR NOSHADE SIZE="8">
+<!--------------------------------------------------------->
+<!--------------------------------------------------------->
+
+<button><a href="#" 
+target="popup" 
+onclick="window.open('LINK','popup','width=1280,height=900'); return false;">
+NOME
+</a></button>
 
 
 
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>
 
-
+</button>
 
 <center>
 
@@ -18,7 +37,6 @@ OUTRA ABA
 
 <img src="/logo.png" width="300">
 
-
 --------------------------------------------------------------------
 
 <a href="
@@ -27,6 +45,22 @@ LINK
 MESMA ABA
 </a>
 <img src="/logo.png" width="300">
+
+
+----------------------------POP UP AUTO---------------------------------
+<html>
+<head>
+<title></title>
+<script languague="javascript">
+function popup(){
+window.open('nomedapagina.html','popup','width=200,height=100,scrolling=auto,top=0,left=0')
+}
+</script>
+</head>
+<body onload=popup()>
+</body>
+</html>
+ 
 
 -----------------------------------------------
 
@@ -100,7 +134,12 @@ LINK🔴
 " type="video/ogv" /><source src="
 LINK🔴
 " type="video/webm" /></video></center><HR NOSHADE SIZE="3" color="red">
-<!--------------------------------------------------------->
+
+
+<button><video width="400" controls="controls" preload="metadata"><source src="
+LINK
+#t=30.0" type="video/mp4"></video></button>
+<!--------------------------TAMANHO TXT------------------------------->
 
 <html>
 <body>
@@ -108,7 +147,7 @@ LINK🔴
 <p style="font-size:180%">Um parágrafo</p>
 </body>
 </html>
-
+<!----<FONT SIZE=+2>Letra maior</FONT>------------->
 https://www.perfectgirls.net/
 https://www.pornocarioca.com/#lista-de-categorias
 <!---------------------------------------------------->
@@ -355,8 +394,6 @@ IMAGEM
 <a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
 
 <!---_______________________________________________________________-->
-
-
 
 <meta http-equiv="refresh" content="5tempo em segundos; URL='url da pagina destino '"/>
 
@@ -695,9 +732,6 @@ https://megacontador.com.br/
 ----------------------------->
 <!--------------------------ANCORA------------------------------>
 
-
-Repare que ao clicar ir para âncora você foi redirecionado à outro ponto desta página. Isto é chamado "ÂNCORA".
-Você pode redirecionar o usuário para qualquer ponto de sua página ou para outro ponto de outra página.
 O código de destino, isto é, o ponto de chegada ao ser clicado é:
 Código: <a name="ancora">
 E o código do comando "ir para" é:
@@ -1610,7 +1644,6 @@ IMAGEM
 <!---------------------FAIXA AZUL----------------------->  _self
 <a href="https://www.homehost.com.br/" target="_blank">
 <div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white">FAIXA AZUL</p></div></a>
-
 
 <!---------------------FAIXA AZUL----------------------->  
 <a href="https://www.homehost.com.br/" target="_self">
@@ -3197,4 +3230,6 @@ https://www.blogcyberini.com/
 </html>
 
 
-
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>
