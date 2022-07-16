@@ -1,7 +1,92 @@
 
+<!----------------------LINK PERSONALIZADO------------------------->
+<a href="
+LINK🔴
+" target="_blank"><h2 style="color: #3ADF00; font-size: 12pt;"> Tag H2 estilizada diretamente com o atributo style🔴<mark>destacado🔴</mark>OUTRAABA🔴
+" target="_self">🔴
+</h2></a>
+<!------------------------------------------------------------------>
 
+
+
+
+<!------------------------------------------------------------------>
+<p>Este líquido é <strong>altamente tóxico</strong> -
+Se você beber, <strong>você pode <em>morrer</em></strong>.</p>
+
+<span style="font-size: 32px; margin: 21px 0;">Este é um título de nível superior?</span>
+
+<!----------------------COR  TAMANHO E LINK ------------------------>
+<h2 style="color: blue;"> Tag H2 estilizada diretamente com o atributo style</h2>
+
+<h2 style="color: blue; font-size: 12pt;"> Tag H2 estilizada diretamente com o atributo style</h2>
+
+<!------------------------------------------------------------------>
+<p style="color: blue;"> Tag H2 estilizada diretamente com o atributo style</p>
+
+<p style="color: blue; font-size: 18pt;"> Tag H2 estilizada diretamente com o atributo style</p>
+<!------------------------------------------------------------------>
+
+
+<center>
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴<mark>destacado</mark>
+</h2></a>
+</center>
+
+
+
+<a href="
+LINK🔴
+" target="_self">
+MESMAABA🔴<mark>destacado</mark>
+</a>
+<img src="/logo.png" width="300">
+<!------------------------------------------------------------------>
+
+
+<p>Texto em negrito com <b>bold</b> e <strong>strong</strong>.</p>
+<p>Texto em itálico com <i>italics<i> e <em>emphasis</em>.</p>
+<p>Texto <sup>sobrescrito</sup> e <sub>subscrito</sub>.</p>
+<p>Texto <ins>inserido</ins> e <del>excluído</del>.</p>
+<p>Texto <small>pequeno</small> e <mark>destacado</mark>.</p>
+
+
+<p>Este é um texto com um <span>
+trecho em destaque</span>.</p>
+<p>
+Este é um texto com um <span
+style="background: #1abc9c; border-radius:5px; padding:5px">
+trecho em destaque</span>.
+</p>
+<!------------------------------------------------------------------>
+
+
+
+
+EXEMPLO DRIVE ABRIR NA PAG
+
+https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview
+
+<button><a href="#" 
+target="popup" 
+onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+EXEMPLO DRIVE ABRIR NA PAG
+</a></button>
+
+--------------------------------------------------------------------
 </button>
+--------------------------------------------------------------------
+    API
+https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
 
+AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+CRIAR LINK WHATZAPP
+https://api.chatpro.com.br/gerador-de-links
+  
+https://api.chatpro.com.br/gerador-de-links?telefone=%2885%29+988885153&msg=SANTOS+QUERO+DIZER+QUE+...
 <!--------------------------------------------------------->
 <center>
 <HR SIZE="7">
@@ -11,57 +96,100 @@
 <!--------------------------------------------------------->
 <!--------------------------------------------------------->
 
-<button><a href="#" 
+<p><button><a href="#" 
 target="popup" 
-onclick="window.open('LINK','popup','width=1280,height=900'); return false;">
-NOME
-</a></button>
+onclick="window.open('LINK🔴','popup','width=1280,height=900'); return false;">
+NOME🔴
+</a></button></p>
 
-
-
+<img src="/logo.png🔴" width="300">
+--------------------------------------------------------------------
 <html>
 <a href="#top"><H3>VOLTAR AO TOPO</H3></a>
 </html>
-
-</button>
-
-<center>
-
-<a href="
-LINK
-" target="_blank"><h2>
-OUTRA ABA
-</h2></a>
-
-</center>
-
-<img src="/logo.png" width="300">
-
 --------------------------------------------------------------------
-
+</button>
+--------------------------------------------------------------------
+<center>
 <a href="
-LINK
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>
+</center>
+<img src="/logo.png🔴" width="300">
+--------------------------------------------------------------------
+<a href="
+LINK🔴
 " target="_self">
-MESMA ABA
+MESMAABA🔴
 </a>
 <img src="/logo.png" width="300">
 
+<!-------------------------------🔴----------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!------------------------------senhas1-------------------------------->
+<html><head><title>SENHA</title></head><CENTER><FORM>
+<input type="button" value="🔐🔞CLIQUE AQUI PARA ENTRAR🔞🔐" onClick="passWord()">
+</FORM></CENTER>
 
+<script language="javascript">
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Insira sua Senha','Digite sua senha');
+while (testV < 3) {
+ if (!pass1) 
+  history.go(-1);
+ if (pass1.toLowerCase() == "0398") {
+   alert('Logado !, Aperte em "OK" para abrir popup...');
+   window.open('https://forum.scriptbrasil.com.br/topic/56750-pagina-html-com-senha/');
+   break;
+   } 
+  testV+=1;
+  var pass1 = 
+  prompt('Acesso Negado - Password Incorrecto.','Digite sua senha');
+ }
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+}
+</script>
+</body>
+</html>
+<!-------------------------------senha2------------------------------->
+http://www.explorando.com.br/dica026-senhajs.htm
+
+<script language=javascript>
+senha = 'SENHA AQUI';
+senhadig = prompt("Digite a senha","")
+if (senha != senhadig){
+alert('Acesso negado!');
+top.location.href='erro.htm';
+}
+</script>
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
 ----------------------------POP UP AUTO---------------------------------
 <html>
 <head>
 <title></title>
 <script languague="javascript">
 function popup(){
-window.open('nomedapagina.html','popup','width=200,height=100,scrolling=auto,top=0,left=0')
+window.open('DICA.txt','popup','width=1820,height=900,scrolling=auto,top=0,left=0')
 }
 </script>
 </head>
 <body onload=popup()>
 </body>
 </html>
- 
-
 -----------------------------------------------
 
 <HR NOSHADE SIZE="3" color="red">
@@ -137,7 +265,7 @@ LINK🔴
 
 
 <button><video width="400" controls="controls" preload="metadata"><source src="
-LINK
+LINK🔴
 #t=30.0" type="video/mp4"></video></button>
 <!--------------------------TAMANHO TXT------------------------------->
 
@@ -147,7 +275,9 @@ LINK
 <p style="font-size:180%">Um parágrafo</p>
 </body>
 </html>
-<!----<FONT SIZE=+2>Letra maior</FONT>------------->
+<!----
+<FONT SIZE=+2>Letra maior</FONT>
+------------->
 https://www.perfectgirls.net/
 https://www.pornocarioca.com/#lista-de-categorias
 <!---------------------------------------------------->
@@ -329,7 +459,12 @@ Este texto é pequeno.
 Este texto é <big>grande</big>.
 
 Este texto é grande.
+
+                                   t a m a n h o   T X T
+
 <!----<FONT SIZE=+2>Letra maior</FONT>------------->
+<FONT SIZE=+2>Letra maior</FONT>
+
 
 <button><video width="400" controls="controls" preload="metadata"><source src="
 LINK
@@ -372,8 +507,16 @@ FORÇAR ESCREVA SE YOUTUBE
 https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg
 https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
 
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+EXEMPLO DRIVE ABRIR NA PAG
 
+https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview
 
+<button><a href="#" 
+target="popup" 
+onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+EXEMPLO DRIVE ABRIR NA PAG
+</a></button>
 <!---_____________________________FOTO__________________________________-->
 https://drive.google.com/uc?export=download&id=LINKDRIVE
 
@@ -1319,7 +1462,7 @@ h1 {
 
 
 
-<BR/><HR/>
+<u><BR/><HR/>
 <html>
 <head>
 <title></title>
@@ -1381,7 +1524,7 @@ document.write('  '+todaysDate);
 //-->
 </SCRIPT>
 </body>
-</html>
+</html></u>
 <BR/><HR/>
 
 
@@ -3233,3 +3376,19 @@ https://www.blogcyberini.com/
 <html>
 <a href="#top"><H3>VOLTAR AO TOPO</H3></a>
 </html>
+
+
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>	
+</body>
+</html>
+<HR WIDTH="80%"><HR SIZE="2">
+<marquee>Fale comigo por WHATSAPP "85"9 8888-5153  Santos*, e só clicar no link abaixo<br></marquee>
+<a href="
+https://wa.me/5585988885153?text=SANTOS+QUERO+DIZER+QUE+...
+" target="_blank"><h2>
+<img src="https://static.wixstatic.com/media/7c7e48_39c88197341146b1ad774494bae6731e~mv2.gif" width="30">FALE COMIGO*
+</h2></a>
+<HR NOSHADE SIZE="3" color="red">
+<HR NOSHADE SIZE="5" color="#00ff00">©️<br/><br/><br/></center>
